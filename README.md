@@ -167,6 +167,7 @@ Grupos e canais do Telegram com URL Pública
 70. [https://t.me/o365brasil](https://t.me/o365brasil)
 71. [https://t.me/rbrasiloficial](https://t.me/rbrasiloficial)
 72. [https://telegram.me/podmanbr](https://telegram.me/podmanbr)
+73. [https://t.me/remoteworkBR](https://t.me/remoteworkBR)
 
 ### 5.2 Slack
 
